@@ -1,3 +1,3 @@
 # demo-project
 this is my first git repository
-Author - Rithwik sai 
+Author - vengala Rithwik sai 
